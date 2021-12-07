@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+header{
+    width: 100%;
+    height: 60vh;
+    background: #129799;
+}
+
+nav{
+    height: 20vh;
+    width: 60%;
+    padding-top: 30px;
+    margin-left: 390px;
+    color: white;
+}
+
+ul{
+    height: 20vh;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    margin-left: 100px;
+}
+
+.life{
+    Width:640px;
+    Height:320px;
+}
+
+main{
+    width:100%;
+    height:155vh;
+    background-color:#FFA185;
+  }
+  .aquarela{
+    padding:7vh 0 0vh 3vw;
+  }
+  .aquarela h2{
+    font-size:3.6vw;
+    padding-bottom:3vh;
+  }
+  .aquarela p{
+    color:black;
+    font-size:2.2vw;
+    padding-right:7vw;
+  }
+  .image-container{
+    width:100vw;
+    justify-content:center;
+    margin:5vh 1.5vw 0 1.5vw;
+  }
+  .image-container img{
+    width:45vw;
+    height:45vh;
+  }
+  
+  .veja-mais{
+    width:10vw;
+    height:4.4vh;
+  }
